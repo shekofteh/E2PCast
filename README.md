@@ -11,5 +11,7 @@ Keywords:
 Speech Processing; Automatic voice casting; Dubbing; Bilingual dataset; i-vector; Siamese neural network; Speaker recognition.
 
 References: 
-Alipour Esgandani, S., & Shekofteh, Y. (2025). E2PCast: an English to Persian voice casting dataset. Signal, Image and Video Processing, 19(3), 1-14. 
+ 
+Alipour Esgandani, S., & Shekofteh, Y. (2025). E2PCast: an English to Persian voice casting dataset. Signal, Image and Video Processing, 19(3), 1-14.  
+ 
 Alipour Esgandani, S., Shekofteh, Y., & Moradi, A. (2024). APEDM: a new voice casting system using acoustic–phonetic encoder-decoder mapping. Multimedia Tools and Applications, 1-25. 
